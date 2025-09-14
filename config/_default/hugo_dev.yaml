@@ -1,0 +1,45 @@
+############################
+## HUGO 开发配置
+## 用于本地调试的简化配置
+############################
+
+title: Thinking-Lab-XMU
+baseURL: 'http://localhost:1313/'
+
+# 语言设置
+defaultContentLanguage: zh
+hasCJKLanguage: true
+
+# 开发模式设置
+buildDrafts: true
+buildFuture: true
+buildExpired: true
+
+# 简化的输出格式
+outputs:
+  home: [HTML, RSS, JSON]
+  section: [HTML, RSS]
+
+# 基本设置
+enableEmoji: true
+enableRobotsTXT: false
+summaryLength: 30
+timeout: 60000
+
+# 分类设置
+taxonomies:
+  tag: tags
+  category: categories
+  author: authors
+
+# 永久链接
+permalinks:
+  authors: '/author/:slug/'
+  tags: '/tag/:slug/'
+  categories: '/category/:slug/'
+
+# 图像处理
+imaging:
+  resampleFilter: lanczos
+  quality: 75
+  anchor: smart

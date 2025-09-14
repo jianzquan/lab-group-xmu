@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>刘国英 | Thinking-Lab-XMU</title>
+    <link>http://localhost:1313/author/%E5%88%98%E5%9B%BD%E8%8B%B1/</link>
+      <atom:link href="http://localhost:1313/author/%E5%88%98%E5%9B%BD%E8%8B%B1/index.xml" rel="self" type="application/rss+xml" />
+    <description>刘国英</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>http://localhost:1313/author/%E5%88%98%E5%9B%BD%E8%8B%B1/avatar_hu_5dd0cf0666898605.jpg</url>
+      <title>刘国英</title>
+      <link>http://localhost:1313/author/%E5%88%98%E5%9B%BD%E8%8B%B1/</link>
+    </image>
+    
+  </channel>
+</rss>

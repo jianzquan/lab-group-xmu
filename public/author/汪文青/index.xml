@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>汪文青 | Thinking-Lab-XMU</title>
+    <link>http://localhost:1313/author/%E6%B1%AA%E6%96%87%E9%9D%92/</link>
+      <atom:link href="http://localhost:1313/author/%E6%B1%AA%E6%96%87%E9%9D%92/index.xml" rel="self" type="application/rss+xml" />
+    <description>汪文青</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>http://localhost:1313/author/%E6%B1%AA%E6%96%87%E9%9D%92/avatar_hu_f28f30eac34baa74.jpg</url>
+      <title>汪文青</title>
+      <link>http://localhost:1313/author/%E6%B1%AA%E6%96%87%E9%9D%92/</link>
+    </image>
+    
+  </channel>
+</rss>

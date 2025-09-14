@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>吴滢洁 | Thinking-Lab-XMU</title>
+    <link>http://localhost:1313/author/%E5%90%B4%E6%BB%A2%E6%B4%81/</link>
+      <atom:link href="http://localhost:1313/author/%E5%90%B4%E6%BB%A2%E6%B4%81/index.xml" rel="self" type="application/rss+xml" />
+    <description>吴滢洁</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>http://localhost:1313/author/%E5%90%B4%E6%BB%A2%E6%B4%81/avatar_hu_d0abdceb6d7131c9.jpg</url>
+      <title>吴滢洁</title>
+      <link>http://localhost:1313/author/%E5%90%B4%E6%BB%A2%E6%B4%81/</link>
+    </image>
+    
+  </channel>
+</rss>

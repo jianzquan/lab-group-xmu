@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>发表论文 | Thinking-Lab-XMU</title>
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>发表论文</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 29 May 2025 08:15:18 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_27f5d0c9bdc39eff.png</url>
+      <title>发表论文</title>
+      <link>http://localhost:1313/publication/</link>
+    </image>
+    
+    <item>
+      <title>Supervised Exploratory Learning for Long-Tailed Visual Recognition</title>
+      <link>http://localhost:1313/publication/2/</link>
+      <pubDate>Thu, 29 May 2025 08:15:18 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DTCRS: Dynamic Tree Construction for Recursive Summarization</title>
+      <link>http://localhost:1313/publication/1/</link>
+      <pubDate>Thu, 29 May 2025 08:15:12 +0000</pubDate>
+      <guid>http://localhost:1313/publication/1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

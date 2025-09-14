@@ -1,0 +1,84 @@
+//人物主页肖像下面的名字样式
+.portrait-title h2 {
+  font-size: 1.64em;
+  font-weight: 300;
+  color: #000;
+  margin: 20px 0 10px;
+}
+
+//通讯作者作者note图标
+.author-correspond:before {
+  content: "*";
+  font-family: inherit;  /* 不使用 Font Awesome 字体 */
+  font-size: 0.7em;//字体大小
+  font-style: normal;
+  font-weight: 300;//字体粗细
+  padding-right: 3px;
+}
+
+
+//共同一作作作者note图标
+.author-joint:before {
+  content: "+";
+  font-family: inherit;  /* 不使用 Font Awesome 字体 */
+  font-size: 0.7em;//字体大小
+  font-style: normal;
+  font-weight: 300;//字体粗细
+  padding-right: 3px;
+}
+
+//论文列表的样式
+#container-publications {
+  text-align: justify;
+  display: block;
+  position: relative;
+  overflow: hidden;
+  font-size: 0.8rem;
+}
+
+//新闻内容的样式
+.article-container {
+  max-width: 1200px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+.article-style {
+  // Any unresponsive embeds, e.g. Plotly, should be wrapped to handle on a case-by-case basis.
+  // If any unresponsive embeds still remain in the article, prevent article overflow and DIV scrolling.
+  // Note that lazy-loaded images, e.g. Gallery, may cause scrollable Y-overflow if only X-overflow is hidden pre-load.
+  overflow: hidden;
+  text-align: justify;
+  // Word wrap text content.
+  @include word-wrap;
+
+  // Underline links if they are a similar color to the body text.
+  a {
+    text-decoration: $sta-link-decoration;
+  }
+
+  img,
+  video {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding: 0;
+  }
+
+  td img,
+  td video {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  figure {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  figure img {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}

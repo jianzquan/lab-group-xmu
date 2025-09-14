@@ -1,0 +1,10 @@
+############################
+## HUGO MODULES (Local Development)
+## Using local v5 directory for offline development
+############################
+
+replacements:
+  "github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 -> ./v5@v5.9.8-0.20241012174104-661cadc17327"
+
+imports:
+  - path: ./v5@v5.9.8-0.20241012174104-661cadc17327

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>尹文豪 | Thinking-Lab-XMU</title>
+    <link>http://localhost:1313/author/%E5%B0%B9%E6%96%87%E8%B1%AA/</link>
+      <atom:link href="http://localhost:1313/author/%E5%B0%B9%E6%96%87%E8%B1%AA/index.xml" rel="self" type="application/rss+xml" />
+    <description>尹文豪</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>http://localhost:1313/author/%E5%B0%B9%E6%96%87%E8%B1%AA/avatar_hu_5207a223fbeeed69.jpg</url>
+      <title>尹文豪</title>
+      <link>http://localhost:1313/author/%E5%B0%B9%E6%96%87%E8%B1%AA/</link>
+    </image>
+    
+  </channel>
+</rss>

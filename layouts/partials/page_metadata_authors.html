@@ -1,0 +1,32 @@
+{{/* Display author list. */}}
+
+{{- $taxonomy := "authors" }}
+{{- $raw_authors := "authors" }}
+{{ if .Param $taxonomy }}
+  {{ range $index, $value := (.GetTerms $taxonomy) }}
+    {{- /* Highlight the author's name? */ -}}
+    {{- $highlight_name := .Page.Params.highlight_name | default false -}}
+    {{- if gt $index 0 }}, {{ end -}}
+    <span {{ if $highlight_name }}class="author-highlighted"{{end}}>
+      {{/* Effectively check the page's `_build` option as `_build` is not exposed in Hugo's Page object. */}}
+      {{- if .RelPermalink -}}
+      {{- if $value.Params.englishname -}}
+        <a href="{{.RelPermalink}}">{{$value.Params.englishname}}</a>
+      {{- else -}}
+      <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
+        {{- end -}}
+      {{- end -}}
+    </span>
+    {{- if isset $.Params "author_notes" -}}
+  {{- with (index $.Params.author_notes $index) -}}
+    {{- if eq . "通讯作者" -}}
+      <i class="author-notes fas author-correspond" data-toggle="tooltip" title="{{.}}"></i>
+    {{- else if eq . "共同一作" -}}
+      <i class="author-notes fas author-joint" data-toggle="tooltip" title="{{.}}"></i>
+    {{- else -}}
+      <i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="{{.}}"></i>
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- end -}}
+{{- end -}}

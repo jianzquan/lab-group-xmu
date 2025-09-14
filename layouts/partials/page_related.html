@@ -1,0 +1,7 @@
+{{/* Show related/recommended content. */}}
+{{ if .Params.show_related }}
+  {{ $related := site.RegularPages.Related . | first 5 }}
+  {{ with $related }}
+  
+  {{ end }}
+{{ end }}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thinking-Lab-XMU</title>
+    <link>http://localhost:1313/author/thinking-lab-xmu/</link>
+      <atom:link href="http://localhost:1313/author/thinking-lab-xmu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thinking-Lab-XMU</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>http://localhost:1313/author/thinking-lab-xmu/avatar_hu_47a0d488247ad93c.jpg</url>
+      <title>Thinking-Lab-XMU</title>
+      <link>http://localhost:1313/author/thinking-lab-xmu/</link>
+    </image>
+    
+    <item>
+      <title>Thinking-Lab-XMU</title>
+      <link>http://localhost:1313/author/thinking-lab-xmu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/thinking-lab-xmu/</guid>
+      <description>&lt;p&gt;👋欢迎来到厦门大学语言智能技术课题组的主页。&lt;/p&gt;
+&lt;p&gt;厦门大学语言智能技术课题组从属于厦门大学数字媒体计算中心。目前，课题组包含教授1人，讲师1人，助理教授1人，博士后1人，在读研究生20余人。课题组主要聚焦于自然语言处理，大模型，AI for Science，承担了国家省部级项目，知名互联网校企合作项目数十项，累计发表CCF-A/B类论文170余篇，授权发明专利20余项；研究成果获得2020年钱伟长中文信息处理科学技术奖—汉王青年创新奖，国家示范型软件学院联盟20周年优秀专职教师奖；培养硕士生获得百度奖学金，腾讯犀牛鸟奖学金；相关研究成果在阿里巴巴，维沃等互联网大厂得到实际应用。&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;欢迎同学们关注26级推免招生！&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;有任何疑问都可以&lt;a href=&#34;contact/&#34;&gt;联系我们&lt;/a&gt;，或者联系我们的&lt;a href=&#34;people/&#34;&gt;成员&lt;/a&gt;获取更多信息。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

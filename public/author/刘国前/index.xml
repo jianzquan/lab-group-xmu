@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>刘国前 | Thinking-Lab-XMU</title>
+    <link>http://localhost:1313/author/%E5%88%98%E5%9B%BD%E5%89%8D/</link>
+      <atom:link href="http://localhost:1313/author/%E5%88%98%E5%9B%BD%E5%89%8D/index.xml" rel="self" type="application/rss+xml" />
+    <description>刘国前</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>http://localhost:1313/author/%E5%88%98%E5%9B%BD%E5%89%8D/avatar_hu_1488b1d00c94fa55.jpg</url>
+      <title>刘国前</title>
+      <link>http://localhost:1313/author/%E5%88%98%E5%9B%BD%E5%89%8D/</link>
+    </image>
+    
+  </channel>
+</rss>

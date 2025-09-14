@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>黄小玲 | Thinking-Lab-XMU</title>
+    <link>http://localhost:1313/author/%E9%BB%84%E5%B0%8F%E7%8E%B2/</link>
+      <atom:link href="http://localhost:1313/author/%E9%BB%84%E5%B0%8F%E7%8E%B2/index.xml" rel="self" type="application/rss+xml" />
+    <description>黄小玲</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>http://localhost:1313/author/%E9%BB%84%E5%B0%8F%E7%8E%B2/avatar_hu_4092e75369e8dc44.jpg</url>
+      <title>黄小玲</title>
+      <link>http://localhost:1313/author/%E9%BB%84%E5%B0%8F%E7%8E%B2/</link>
+    </image>
+    
+  </channel>
+</rss>

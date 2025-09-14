@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>范远生 | Thinking-Lab-XMU</title>
+    <link>http://localhost:1313/author/%E8%8C%83%E8%BF%9C%E7%94%9F/</link>
+      <atom:link href="http://localhost:1313/author/%E8%8C%83%E8%BF%9C%E7%94%9F/index.xml" rel="self" type="application/rss+xml" />
+    <description>范远生</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>http://localhost:1313/author/%E8%8C%83%E8%BF%9C%E7%94%9F/avatar_hu_846c2eac5a394be0.jpg</url>
+      <title>范远生</title>
+      <link>http://localhost:1313/author/%E8%8C%83%E8%BF%9C%E7%94%9F/</link>
+    </image>
+    
+  </channel>
+</rss>

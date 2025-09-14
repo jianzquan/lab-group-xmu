@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>柯念昕 | Thinking-Lab-XMU</title>
+    <link>http://localhost:1313/author/%E6%9F%AF%E5%BF%B5%E6%98%95/</link>
+      <atom:link href="http://localhost:1313/author/%E6%9F%AF%E5%BF%B5%E6%98%95/index.xml" rel="self" type="application/rss+xml" />
+    <description>柯念昕</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>http://localhost:1313/author/%E6%9F%AF%E5%BF%B5%E6%98%95/avatar_hu_2a8d0a91bf76ab3a.JPG</url>
+      <title>柯念昕</title>
+      <link>http://localhost:1313/author/%E6%9F%AF%E5%BF%B5%E6%98%95/</link>
+    </image>
+    
+  </channel>
+</rss>

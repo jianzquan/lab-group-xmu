@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>黄宇鹏 | Thinking-Lab-XMU</title>
+    <link>http://localhost:1313/author/%E9%BB%84%E5%AE%87%E9%B9%8F/</link>
+      <atom:link href="http://localhost:1313/author/%E9%BB%84%E5%AE%87%E9%B9%8F/index.xml" rel="self" type="application/rss+xml" />
+    <description>黄宇鹏</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>http://localhost:1313/author/%E9%BB%84%E5%AE%87%E9%B9%8F/avatar_hu_79a7df0c6886c6f7.jpg</url>
+      <title>黄宇鹏</title>
+      <link>http://localhost:1313/author/%E9%BB%84%E5%AE%87%E9%B9%8F/</link>
+    </image>
+    
+  </channel>
+</rss>
